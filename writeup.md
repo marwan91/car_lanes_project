@@ -34,6 +34,6 @@ Then finding the A and B coefficients for the line equation y=Ax+B . Then I calc
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to eliminate the shakiness of the extrapolated lines drawn on the lanes 
+A possible improvement would be to eliminate the shakiness of the extrapolated lines drawn on the lanes. 
 
- 
+The pipeline works only for a specific image size, It can be modified to be flexible for a variety of image dimensions. 
