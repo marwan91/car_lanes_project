@@ -22,7 +22,7 @@ Then finding the A and B coefficients for the line equation y=Ax+B . Then I calc
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![example image]car_lanes_project/examples/solidYellowCurve2.jpg)
+![example image](/car_lanes_project/examples/solidYellowCurve2.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
